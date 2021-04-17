@@ -1,1 +1,9 @@
 c:\users\goril\documents\visual studio 2012\Projects\PARKING\PARKING\bin\Debug\PARKING.exe.config
+C:\Users\cesar\Dropbox\Mi PC (HP-Omen)\Documents\Visual Studio 2012\Projects\parking\parking\PARKING\bin\Debug\PARKING.exe.config
+C:\Users\cesar\Dropbox\Mi PC (HP-Omen)\Documents\Visual Studio 2012\Projects\parking\parking\PARKING\bin\Debug\PARKING.exe
+C:\Users\cesar\Dropbox\Mi PC (HP-Omen)\Documents\Visual Studio 2012\Projects\parking\parking\PARKING\bin\Debug\PARKING.pdb
+C:\Users\cesar\Dropbox\Mi PC (HP-Omen)\Documents\Visual Studio 2012\Projects\parking\parking\PARKING\obj\Debug\PARKING.csprojResolveAssemblyReference.cache
+C:\Users\cesar\Dropbox\Mi PC (HP-Omen)\Documents\Visual Studio 2012\Projects\parking\parking\PARKING\obj\Debug\PARKING.Properties.Resources.resources
+C:\Users\cesar\Dropbox\Mi PC (HP-Omen)\Documents\Visual Studio 2012\Projects\parking\parking\PARKING\obj\Debug\PARKING.csproj.GenerateResource.Cache
+C:\Users\cesar\Dropbox\Mi PC (HP-Omen)\Documents\Visual Studio 2012\Projects\parking\parking\PARKING\obj\Debug\PARKING.exe
+C:\Users\cesar\Dropbox\Mi PC (HP-Omen)\Documents\Visual Studio 2012\Projects\parking\parking\PARKING\obj\Debug\PARKING.pdb
