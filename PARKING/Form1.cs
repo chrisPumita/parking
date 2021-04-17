@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PARKING.CONTROL;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -16,5 +17,13 @@ namespace PARKING
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+             CONEXION con = CONEXION.getInstance;
+             MessageBox.Show("Conexion " + (con.VerifyConnection()?"establecida": "fallida"));
+             lblConexion.Text = "Conectado a : " + Properties.Settings.Default.host;
+        }
+
     }
 }
